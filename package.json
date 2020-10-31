@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.21.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-google-autocomplete": "^1.2.6",
@@ -12,9 +13,9 @@
   "module": "build/index.js",
   "homepage": "/boilerplate-react-hooks/",
   "author": {
-    "name": "José Zúñiga",
-    "email": "zuniga.joseignacio@gmail.com",
-    "url": "https://github.com/JoseZunigaDyehs"
+    "name": "Siddhu VYdyabhushana",
+    "email": "vydyas@gmail.com",
+    "url": "https://github.com/vydyas"
   },
   "scripts": {
     "start": "react-scripts start",
